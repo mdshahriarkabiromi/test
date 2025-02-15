@@ -65,6 +65,16 @@
   <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=arifasultana76&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs"/>
 </div>
 
+<div align="center">
+  <div width="390">
+  
+  ![](https://github-readme-stats.vercel.app/api?username=arifasultana76&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=arifasultana76&theme=radical&hide_border=false)
+  </div>
+  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arifasultana76&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+</div>
+
 <br/><br/>
 <hr/>
 
