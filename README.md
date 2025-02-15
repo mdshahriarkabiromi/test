@@ -59,14 +59,16 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  <div>
-  
-  ![](https://github-readme-stats.vercel.app/api?username=arifasultana76&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=arifasultana76&theme=radical&hide_border=false)
-  </div>
-  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arifasultana76&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=arifasultana76&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=arifasultana76&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
+  <br/>
+  <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=arifasultana76&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs"/>
 </div>
+
+<br/><br/>
+<hr/>
+
+<br/>
                       
 
 ### ✍️ Random Dev Quote
